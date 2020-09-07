@@ -40,7 +40,7 @@
  */
 
 #define DEBUG                                     // Do you want to see extra debugging information in the serial output?
-#define DEBUG_SCREEN                              // Do you want to see extra debugging information about the touch screen in the serial output?
+//#define DEBUG_SCREEN                              // Do you want to see extra debugging information about the touch screen in the serial output?
 //#define MY_DEBUG                                  // Enable MySensors debug output to the serial monitor, so you can check if the radio is working ok.
 
 
